@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋, Myself Sultan Malik
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Blog Post website
 - 🌱 I’m currently learning Django
