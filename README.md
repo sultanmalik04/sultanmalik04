@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sultan Malik
 
-I'm a **Java Developer** passionate about building scalable and efficient software solutions. I specialize in backend development, crafting robust applications using Java and modern frameworks.
+I'm a **Software Developer** passionate about building scalable and efficient software solutions. I specialize in backend development, crafting robust applications using Java and modern frameworks.
 
 #### 🚀 Tech Stack
 - **Programming Languages:** Java, Python
